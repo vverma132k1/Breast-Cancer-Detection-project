@@ -11,7 +11,7 @@ This project aims to address the crucial issue of early breast cancer detection 
 - Achieved a 92.9% accuracy rate and a 91.1% specificity score in test cases.
 
 ### Comprehensive Dataset
-- Utilized a dataset consisting of over 10,000 data points with multiple variables associated with breast cancer.
+- Utilized a dataset consisting of over 550+ data points with multiple variables associated with breast cancer.
 
 ### Efficient and Interpretable Model
 - Chose Logistic Regression for its computational efficiency and ease of interpretability.
